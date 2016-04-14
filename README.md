@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Checkin' it out
+Follow the tutorial
+BOW TO MY BIDDING
